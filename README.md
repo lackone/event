@@ -8,12 +8,12 @@
     composer require lackone/event
 </code>
 
-### 2、使用trait
+### 2、在类中使用trait
 <code>
     use Lackone\Event;
 </code>
 
-### 3、例子
+### 3、简单的例子
 ```
 <?php
 require 'vendor/autoload.php';
