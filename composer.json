@@ -1,0 +1,22 @@
+{
+    "name": "lackone/event",
+    "description": "php的事件类",
+    "keywords": ["event"],
+    "homepage": "https://github.com/lackone",
+    "support": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lackone",
+            "email": "lackone@126.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "suggest": {},
+    "autoload": {
+		"psr-4": {
+			"Lackone\\": ""
+		}
+    }
+}
