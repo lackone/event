@@ -15,8 +15,8 @@
     "require-dev": {},
     "suggest": {},
     "autoload": {
-		"psr-4": {
-			"Lackone\\": ""
-		}
+	"psr-4": {
+	    "Lackone\\": ""
+	}
     }
 }
