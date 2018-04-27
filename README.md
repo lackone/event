@@ -14,7 +14,7 @@
 </code>
 
 ### 3、例子
-<code>
+```
     <?php
     require 'vendor/autoload.php';
     
@@ -73,4 +73,4 @@
     //解绑具体的某个回调
     Test::off('off', ['Test', 'call2']);
     Test::trigger('off');
-</code>
+```
